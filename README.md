@@ -64,8 +64,3 @@ ollama run tinyllama
 streamlit run app.py
 
 # 📦 Installation
-
-## 1️⃣ Clone Repository
-```bash
-git clone https://github.com/your-username/ai-studio-pro.git
-cd ai-studio-pro
