@@ -50,7 +50,9 @@ It includes:
 ---
 **How to run the project in Vs code **
 **1 Install dependencies**
+
 pip install streamlit requests pillow pyttsx3
+
 **2 Install Ollama (Important)**
 
 Download Ollama:
@@ -61,6 +63,7 @@ Download Ollama:
 ollama run tinyllama
 
 **🚀 Run Project**
+
 streamlit run app.py
 
 # 📦 Installation
